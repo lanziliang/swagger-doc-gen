@@ -4,10 +4,8 @@
 
 ## 安装
 
-1. `cd $GOPATH/src/`
-2. 拉取代码 `git clone git@gitlab.airdroid.com:treasure/swagger-doc-gen.git`
-3. `cd swagger-doc-gen`
-4. `go install`
+`go get -u github.com/lanziliang/swagger-doc-gen`
+
 
 ## 使用swagger-doc-gen命令
 

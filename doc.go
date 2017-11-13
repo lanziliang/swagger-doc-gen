@@ -17,7 +17,7 @@ import (
 	"unicode"
 
 	"gopkg.in/yaml.v2"
-	swagger "swagger-doc-gen/define"
+	swagger "github.com/lanziliang/swagger-doc-gen/define"
 
 	logger "github.com/cihub/seelog"
 )
